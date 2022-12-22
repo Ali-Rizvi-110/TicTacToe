@@ -1,0 +1,13 @@
+.cell{
+    /* position: absolute; */
+    height: 85px;
+    width: 85px;
+    border: 2px solid darkorchid;
+}
+
+.vertical-center{
+    /* padding: 11px; */
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 40px;
+}
